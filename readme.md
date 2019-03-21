@@ -9,7 +9,7 @@ O propósito desse software é fazer com que seja criado um rank de jogadores.
 - [ ] Preparar o ambiente
     - [X] Instalar o SDK do google
     - [X] Instalar o react-native
-    - [ ] Definir o banco de dados que será utilizado pelo software
+    - [X] Definir o banco de dados que será utilizado pelo software
     - [ ] Definir o tema a ser utilizado pelo software
 
 - [ ] Criar os mockups layouts das telas:
@@ -35,3 +35,4 @@ O propósito desse software é fazer com que seja criado um rank de jogadores.
 ## Documentações
 
 Iniciando o projeto - [Link](docs/start_project.md)
+Banco de dados - [Link](docs/database.md)

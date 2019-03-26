@@ -6,22 +6,22 @@ O propósito desse software é fazer com que seja criado um rank de jogadores.
 
 - [X] Descrever os passos para a execução do software
 
-- [ ] Preparar o ambiente
+- [X] Preparar o ambiente
     - [X] Instalar o SDK do google
     - [X] Instalar o react-native
     - [X] Definir o banco de dados que será utilizado pelo software
-    - [ ] Definir o tema a ser utilizado pelo software
+    - [X] Definir o tema a ser utilizado pelo software
 
 - [ ] Criar os mockups layouts das telas:
     - [ ] Inicial
     - [ ] Criar times
-    - [ ] Acompanhamento dos jogos
+    - [X] Acompanhamento dos jogos
     - [ ] Rank
 
 - [ ] Implementar as telas
     - [ ] Inicial
     - [ ] Criar times
-    - [ ] Acompanhamento dos jogos
+    - [X] Acompanhamento dos jogos
     - [ ] Rank
 
 - [ ] Persistir
@@ -36,3 +36,4 @@ O propósito desse software é fazer com que seja criado um rank de jogadores.
 
 Iniciando o projeto - [Link](docs/start_project.md)
 Banco de dados - [Link](docs/database.md)
+Tema - [Link](https://github.com/GeekyAnts/NativeBase)
